@@ -1,4 +1,0 @@
-[console_scripts]
-turtlesim_publisher = ros2_attack.turtlesim_publiser:main
-turtlesim_subscriber = ros2_attack.turtlesim_subscriber:main
-
