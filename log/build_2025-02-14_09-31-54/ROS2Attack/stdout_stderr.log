@@ -1,0 +1,39 @@
+running egg_info
+creating ../build/ROS2Attack/ROS2Attack.egg-info
+writing ../build/ROS2Attack/ROS2Attack.egg-info/PKG-INFO
+writing dependency_links to ../build/ROS2Attack/ROS2Attack.egg-info/dependency_links.txt
+writing entry points to ../build/ROS2Attack/ROS2Attack.egg-info/entry_points.txt
+writing requirements to ../build/ROS2Attack/ROS2Attack.egg-info/requires.txt
+writing top-level names to ../build/ROS2Attack/ROS2Attack.egg-info/top_level.txt
+writing manifest file '../build/ROS2Attack/ROS2Attack.egg-info/SOURCES.txt'
+reading manifest file '../build/ROS2Attack/ROS2Attack.egg-info/SOURCES.txt'
+writing manifest file '../build/ROS2Attack/ROS2Attack.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/vcs/docker_temp_ws/build/ROS2Attack/build
+creating /home/vcs/docker_temp_ws/build/ROS2Attack/build/lib
+creating /home/vcs/docker_temp_ws/build/ROS2Attack/build/lib/ROS2Attack
+copying ROS2Attack/turtlesim_publisher.py -> /home/vcs/docker_temp_ws/build/ROS2Attack/build/lib/ROS2Attack
+copying ROS2Attack/turtlesim_subscriber.py -> /home/vcs/docker_temp_ws/build/ROS2Attack/build/lib/ROS2Attack
+copying ROS2Attack/__init__.py -> /home/vcs/docker_temp_ws/build/ROS2Attack/build/lib/ROS2Attack
+running install
+running install_lib
+creating /home/vcs/docker_temp_ws/install/ROS2Attack/lib/python3.8/site-packages/ROS2Attack
+copying /home/vcs/docker_temp_ws/build/ROS2Attack/build/lib/ROS2Attack/turtlesim_publisher.py -> /home/vcs/docker_temp_ws/install/ROS2Attack/lib/python3.8/site-packages/ROS2Attack
+copying /home/vcs/docker_temp_ws/build/ROS2Attack/build/lib/ROS2Attack/turtlesim_subscriber.py -> /home/vcs/docker_temp_ws/install/ROS2Attack/lib/python3.8/site-packages/ROS2Attack
+copying /home/vcs/docker_temp_ws/build/ROS2Attack/build/lib/ROS2Attack/__init__.py -> /home/vcs/docker_temp_ws/install/ROS2Attack/lib/python3.8/site-packages/ROS2Attack
+byte-compiling /home/vcs/docker_temp_ws/install/ROS2Attack/lib/python3.8/site-packages/ROS2Attack/turtlesim_publisher.py to turtlesim_publisher.cpython-38.pyc
+byte-compiling /home/vcs/docker_temp_ws/install/ROS2Attack/lib/python3.8/site-packages/ROS2Attack/turtlesim_subscriber.py to turtlesim_subscriber.cpython-38.pyc
+byte-compiling /home/vcs/docker_temp_ws/install/ROS2Attack/lib/python3.8/site-packages/ROS2Attack/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/vcs/docker_temp_ws/install/ROS2Attack/share/ament_index
+creating /home/vcs/docker_temp_ws/install/ROS2Attack/share/ament_index/resource_index
+creating /home/vcs/docker_temp_ws/install/ROS2Attack/share/ament_index/resource_index/packages
+copying resource/ROS2Attack -> /home/vcs/docker_temp_ws/install/ROS2Attack/share/ament_index/resource_index/packages
+copying package.xml -> /home/vcs/docker_temp_ws/install/ROS2Attack/share/ROS2Attack
+running install_egg_info
+Copying ../build/ROS2Attack/ROS2Attack.egg-info to /home/vcs/docker_temp_ws/install/ROS2Attack/lib/python3.8/site-packages/ROS2Attack-0.0.0-py3.8.egg-info
+running install_scripts
+Installing turtlesim_publisher script to /home/vcs/docker_temp_ws/install/ROS2Attack/lib/ROS2Attack
+Installing turtlesim_subscriber script to /home/vcs/docker_temp_ws/install/ROS2Attack/lib/ROS2Attack
+writing list of installed files to '/home/vcs/docker_temp_ws/build/ROS2Attack/install.log'
